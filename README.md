@@ -22,10 +22,15 @@ The goal of the internship was to:
 
 ArchTechnology-Internship-Projects/
 │
+
 ├── data/ # Raw and cleaned datasets
+
 ├── ARCH TECHNOLOGIES AI Internship Task 1.ipynb/ # Jupyter notebooks for Task 1
+
 ├── ARCH TECHNOLOGIES AI Internship Task 2.ipynb/ # Jupyter notebooks for Task 2
+
 ├── LICENSE/ # License
+
 └── README.md # Project documentation
 
 ---
